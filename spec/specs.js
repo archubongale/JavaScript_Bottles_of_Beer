@@ -1,7 +1,6 @@
-Example of spec
 
-// describe('factorial', function() {
-//   it("will take a number and multiply it by all other numbers less than it", function() {
-//     expect(factorial(5)).to.equal(120);
+// dexcribe('bottleSong',function() {
+//   it("gives the deceremented value of the bottle", function() {
+//     expect(bottleSong(1).to.equal("No more bottles on the wall"));
 //   });
 // });
